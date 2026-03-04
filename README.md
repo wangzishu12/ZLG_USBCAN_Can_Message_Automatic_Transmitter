@@ -1,0 +1,2 @@
+# ZLG_USBCAN_Can_Message_Automatic_Transmitter
+调用周立功的CAN盒，可在总线上自动发送excel文件内的can报文，方便测试使用
